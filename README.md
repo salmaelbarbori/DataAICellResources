@@ -1,2 +1,6 @@
-# DataAICellResources
-In this repository you will find the different resources and projects that we are working on as part of our data and ai cell.
+# Data/AI Resources
+In this repository, you can find the different concepts, as well as project that we covered during our weekly sessions at @ESI-Rabat.
+
+--
+Here is the roadmap followed during this semester, and stay connected, we will upload the one dedicated for the next semester soon (in one month enshallah).
+
