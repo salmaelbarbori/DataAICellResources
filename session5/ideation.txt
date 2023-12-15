@@ -1,1 +1,0 @@
-We will work on a classifciation problem, from start to end.
